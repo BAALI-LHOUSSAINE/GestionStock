@@ -1,4 +1,6 @@
 # GestionStock
+Visitez le branche Master pour trouver l'application
+
 --Fr--
 
 Application de bureau pour la gestion des stocks d'une entreprise en C# .NET. 
