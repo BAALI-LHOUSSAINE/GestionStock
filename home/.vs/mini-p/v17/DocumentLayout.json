@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\mini-p\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C8E526-1BD0-40DE-AA1A-9358FF1A0E77}|mini-p.csproj|C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\mini-p\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37C8E526-1BD0-40DE-AA1A-9358FF1A0E77}|mini-p.csproj|solutionrelative:homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C8E526-1BD0-40DE-AA1A-9358FF1A0E77}|mini-p.csproj|C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\mini-p\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C8E526-1BD0-40DE-AA1A-9358FF1A0E77}|mini-p.csproj|solutionrelative:homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\mini-p\\HomePage.cs",
+              "RelativeDocumentMoniker": "HomePage.cs",
+              "ToolTip": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\mini-p\\HomePage.cs",
+              "RelativeToolTip": "HomePage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAWwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:32:25.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\mini-p\\HomePage.cs",
+              "RelativeDocumentMoniker": "HomePage.cs",
+              "ToolTip": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\mini-p\\HomePage.cs [Design]",
+              "RelativeToolTip": "HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:21:50.204Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

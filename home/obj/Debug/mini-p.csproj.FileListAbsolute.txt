@@ -1,0 +1,10 @@
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\mini-p\bin\Debug\mini-p.exe.config
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\mini-p\bin\Debug\mini-p.exe
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\mini-p\bin\Debug\mini-p.pdb
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\mini-p\obj\Debug\mini-p.csproj.AssemblyReference.cache
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\mini-p\obj\Debug\mini_p.Form1.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\mini-p\obj\Debug\mini_p.Properties.Resources.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\mini-p\obj\Debug\mini-p.csproj.GenerateResource.cache
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\mini-p\obj\Debug\mini-p.csproj.CoreCompileInputs.cache
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\mini-p\obj\Debug\mini-p.exe
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\mini-p\obj\Debug\mini-p.pdb

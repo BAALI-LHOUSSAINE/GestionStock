@@ -1,0 +1,37 @@
+C:\Users\BAALI\source\repos\CommandeFr\bin\Debug\CommandeFr.exe.config
+C:\Users\BAALI\source\repos\CommandeFr\bin\Debug\CommandeFr.exe
+C:\Users\BAALI\source\repos\CommandeFr\bin\Debug\CommandeFr.pdb
+C:\Users\BAALI\source\repos\CommandeFr\obj\Debug\CommandeFr.csproj.AssemblyReference.cache
+C:\Users\BAALI\source\repos\CommandeFr\obj\Debug\CommandeFr.Form1.resources
+C:\Users\BAALI\source\repos\CommandeFr\obj\Debug\CommandeFr.Properties.Resources.resources
+C:\Users\BAALI\source\repos\CommandeFr\obj\Debug\CommandeFr.csproj.GenerateResource.cache
+C:\Users\BAALI\source\repos\CommandeFr\obj\Debug\CommandeFr.csproj.CoreCompileInputs.cache
+C:\Users\BAALI\source\repos\CommandeFr\obj\Debug\CommandeFr.exe
+C:\Users\BAALI\source\repos\CommandeFr\obj\Debug\CommandeFr.pdb
+C:\Users\BAALI\source\repos\CommandeFr\obj\Debug\CommandeFr.Form2.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\CommandeFr\bin\Debug\CommandeFr.exe.config
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\CommandeFr\bin\Debug\CommandeFr.exe
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\CommandeFr\bin\Debug\CommandeFr.pdb
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\CommandeFr\obj\Debug\CommandeFr.csproj.AssemblyReference.cache
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\CommandeFr\obj\Debug\CommandeFr.Form1.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\CommandeFr\obj\Debug\CommandeFr.Form2.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\CommandeFr\obj\Debug\CommandeFr.Properties.Resources.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\CommandeFr\obj\Debug\CommandeFr.csproj.GenerateResource.cache
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\CommandeFr\obj\Debug\CommandeFr.csproj.CoreCompileInputs.cache
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\CommandeFr\obj\Debug\CommandeFr.exe
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\CommandeFr\obj\Debug\CommandeFr.pdb
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\CommandeFr\obj\Debug\CommandeFr.Form3.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\CommandeFr\obj\Debug\CommandeFr.Form4.resources
+C:\Users\Electro Ragragui\Desktop\mini projet\CommandeFr\CommandeFr\bin\Debug\CommandeFr.exe.config
+C:\Users\Electro Ragragui\Desktop\mini projet\CommandeFr\CommandeFr\bin\Debug\CommandeFr.exe
+C:\Users\Electro Ragragui\Desktop\mini projet\CommandeFr\CommandeFr\bin\Debug\CommandeFr.pdb
+C:\Users\Electro Ragragui\Desktop\mini projet\CommandeFr\CommandeFr\obj\Debug\CommandeFr.csproj.AssemblyReference.cache
+C:\Users\Electro Ragragui\Desktop\mini projet\CommandeFr\CommandeFr\obj\Debug\CommandeFr.Form1.resources
+C:\Users\Electro Ragragui\Desktop\mini projet\CommandeFr\CommandeFr\obj\Debug\CommandeFr.Form2.resources
+C:\Users\Electro Ragragui\Desktop\mini projet\CommandeFr\CommandeFr\obj\Debug\CommandeFr.Form3.resources
+C:\Users\Electro Ragragui\Desktop\mini projet\CommandeFr\CommandeFr\obj\Debug\CommandeFr.Form4.resources
+C:\Users\Electro Ragragui\Desktop\mini projet\CommandeFr\CommandeFr\obj\Debug\CommandeFr.Properties.Resources.resources
+C:\Users\Electro Ragragui\Desktop\mini projet\CommandeFr\CommandeFr\obj\Debug\CommandeFr.csproj.GenerateResource.cache
+C:\Users\Electro Ragragui\Desktop\mini projet\CommandeFr\CommandeFr\obj\Debug\CommandeFr.csproj.CoreCompileInputs.cache
+C:\Users\Electro Ragragui\Desktop\mini projet\CommandeFr\CommandeFr\obj\Debug\CommandeFr.exe
+C:\Users\Electro Ragragui\Desktop\mini projet\CommandeFr\CommandeFr\obj\Debug\CommandeFr.pdb

@@ -1,0 +1,59 @@
+C:\Users\hp\source\repos\Produits\bin\Debug\Produits.exe.config
+C:\Users\hp\source\repos\Produits\bin\Debug\Produits.exe
+C:\Users\hp\source\repos\Produits\bin\Debug\Produits.pdb
+C:\Users\hp\source\repos\Produits\obj\Debug\Produits.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Produits\obj\Debug\Produits.Form1.resources
+C:\Users\hp\source\repos\Produits\obj\Debug\Produits.Properties.Resources.resources
+C:\Users\hp\source\repos\Produits\obj\Debug\Produits.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Produits\obj\Debug\Produits.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Produits\obj\Debug\Produits.exe
+C:\Users\hp\source\repos\Produits\obj\Debug\Produits.pdb
+C:\Users\hp\Documents\Produits p\Produits\bin\Debug\Produits.exe.config
+C:\Users\hp\Documents\Produits p\Produits\bin\Debug\Produits.exe
+C:\Users\hp\Documents\Produits p\Produits\bin\Debug\Produits.pdb
+C:\Users\hp\Documents\Produits p\Produits\obj\Debug\Produits.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Produits p\Produits\obj\Debug\Produits.Form1.resources
+C:\Users\hp\Documents\Produits p\Produits\obj\Debug\Produits.Properties.Resources.resources
+C:\Users\hp\Documents\Produits p\Produits\obj\Debug\Produits.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Produits p\Produits\obj\Debug\Produits.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Produits p\Produits\obj\Debug\Produits.exe
+C:\Users\hp\Documents\Produits p\Produits\obj\Debug\Produits.pdb
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\Produits p\Produits\bin\Debug\Produits.exe.config
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\Produits p\Produits\bin\Debug\Produits.exe
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\Produits p\Produits\bin\Debug\Produits.pdb
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\Produits p\Produits\obj\Debug\Produits.csproj.AssemblyReference.cache
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\Produits p\Produits\obj\Debug\Produits.Form1.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\Produits p\Produits\obj\Debug\Produits.Form2.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\Produits p\Produits\obj\Debug\Produits.Properties.Resources.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\Produits p\Produits\obj\Debug\Produits.csproj.GenerateResource.cache
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\Produits p\Produits\obj\Debug\Produits.csproj.CoreCompileInputs.cache
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\Produits p\Produits\obj\Debug\Produits.exe
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\Produits p\Produits\obj\Debug\Produits.pdb
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\Produits p\Produits\obj\Debug\Produits.Form3.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\Produits p\Produits\obj\Debug\Produits.Form4.resources
+C:\Users\hp\Documents\Produits\Produits p\Produits\obj\Debug\Produits.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Produits\Produits p\Produits\obj\Debug\Produits.exe
+C:\Users\hp\Documents\Produits\Produits p\Produits\obj\Debug\Produits.pdb
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.csproj.AssemblyReference.cache
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.HomePage.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.ProduitPage.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.AjouterProduit.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.EditerProduit.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.Form4.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.Properties.Resources.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.csproj.GenerateResource.cache
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.csproj.CoreCompileInputs.cache
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.exe
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.pdb
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\bin\Debug\Produits.exe.config
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\bin\Debug\Produits.exe
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\bin\Debug\Produits.pdb
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.CmdFournisseur.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.CommandePage.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.FournisseurPage.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.LoginForm.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.RapportPage.resources
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\bin\Debug\Produits.exe.manifest
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\bin\Debug\Produits.application
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.exe.manifest
+C:\Users\maroc\Desktop\Partie 2\SI PROJECTS\LE MINI PROJET\Produits\Produits p\Produits\obj\Debug\Produits.application

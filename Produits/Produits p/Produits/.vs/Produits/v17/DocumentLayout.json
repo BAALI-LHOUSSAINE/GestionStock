@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|c:\\users\\maroc\\desktop\\partie 2\\si projects\\le mini projet\\produits\\produits p\\produits\\rapportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|solutionrelative:rapportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|c:\\users\\maroc\\desktop\\partie 2\\si projects\\le mini projet\\produits\\produits p\\produits\\rapportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|solutionrelative:rapportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|c:\\users\\maroc\\desktop\\partie 2\\si projects\\le mini projet\\produits\\produits p\\produits\\cmdfournisseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|solutionrelative:cmdfournisseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|c:\\users\\maroc\\desktop\\partie 2\\si projects\\le mini projet\\produits\\produits p\\produits\\cmdfournisseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|solutionrelative:cmdfournisseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|c:\\users\\maroc\\desktop\\partie 2\\si projects\\le mini projet\\produits\\produits p\\produits\\fournisseurpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|solutionrelative:fournisseurpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|c:\\users\\maroc\\desktop\\partie 2\\si projects\\le mini projet\\produits\\produits p\\produits\\fournisseurpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|solutionrelative:fournisseurpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|c:\\users\\maroc\\desktop\\partie 2\\si projects\\le mini projet\\produits\\produits p\\produits\\produitpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|solutionrelative:produitpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|c:\\users\\maroc\\desktop\\partie 2\\si projects\\le mini projet\\produits\\produits p\\produits\\produitpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62F3D220-AE17-4C40-A0DE-D0FD2E646024}|Produits.csproj|solutionrelative:produitpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RapportPage.cs",
+              "DocumentMoniker": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\RapportPage.cs",
+              "RelativeDocumentMoniker": "RapportPage.cs",
+              "ToolTip": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\RapportPage.cs*",
+              "RelativeToolTip": "RapportPage.cs*",
+              "ViewState": "AgIAAHgAAAAAAAAAAAArwI0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:24:51.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RapportPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\RapportPage.cs",
+              "RelativeDocumentMoniker": "RapportPage.cs",
+              "ToolTip": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\RapportPage.cs [Design]*",
+              "RelativeToolTip": "RapportPage.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:24:49.531Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CmdFournisseur.cs",
+              "DocumentMoniker": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\CmdFournisseur.cs",
+              "RelativeDocumentMoniker": "CmdFournisseur.cs",
+              "ToolTip": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\CmdFournisseur.cs",
+              "RelativeToolTip": "CmdFournisseur.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAawCYAAADRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:18:20.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CmdFournisseur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\CmdFournisseur.cs",
+              "RelativeDocumentMoniker": "CmdFournisseur.cs",
+              "ToolTip": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\CmdFournisseur.cs [Design]",
+              "RelativeToolTip": "CmdFournisseur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:18:17.57Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FournisseurPage.cs",
+              "DocumentMoniker": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\FournisseurPage.cs",
+              "RelativeDocumentMoniker": "FournisseurPage.cs",
+              "ToolTip": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\FournisseurPage.cs",
+              "RelativeToolTip": "FournisseurPage.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAnwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:15:37.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FournisseurPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\FournisseurPage.cs",
+              "RelativeDocumentMoniker": "FournisseurPage.cs",
+              "ToolTip": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\FournisseurPage.cs [Design]",
+              "RelativeToolTip": "FournisseurPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:15:36.056Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProduitPage.cs",
+              "DocumentMoniker": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\ProduitPage.cs",
+              "RelativeDocumentMoniker": "ProduitPage.cs",
+              "ToolTip": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\ProduitPage.cs",
+              "RelativeToolTip": "ProduitPage.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAASwI0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:36:09.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProduitPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\ProduitPage.cs",
+              "RelativeDocumentMoniker": "ProduitPage.cs",
+              "ToolTip": "C:\\Users\\maroc\\Desktop\\Partie 2\\SI PROJECTS\\LE MINI PROJET\\Produits\\Produits p\\Produits\\ProduitPage.cs [Design]",
+              "RelativeToolTip": "ProduitPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:36:07.465Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
